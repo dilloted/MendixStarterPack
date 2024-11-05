@@ -7,4 +7,4 @@ Make your first day a piece of cake when using this quick little script.
 
 # Mac
 
-## Docker
+# Docker
